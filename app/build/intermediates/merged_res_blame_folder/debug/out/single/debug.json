@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/layout_activity_main.xml.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/layout_activity_splash_screen.xml.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-pngs-17:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/drawable_ic_splash_image.xml.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/drawable/ic_splash_image.xml"
+    },
+    {
+        "merged": "com.example.first_android_app-merged_res-22:/layout_activity_main.xml.flat",
+        "source": "com.example.first_android_app-main-24:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/xml_backup_rules.xml.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-merged_res-22:/drawable_splash_background.xml.flat",
+        "source": "/Users/psnguyen/.gradle/daemon/7.3.3/com.example.first_android_app-main-24:/drawable/splash_background.xml"
+    }
+]

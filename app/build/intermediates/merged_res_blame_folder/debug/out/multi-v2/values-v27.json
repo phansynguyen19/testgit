@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.first_android_app-mergeDebugResources-20:/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "/Users/psnguyen/.gradle/caches/transforms-3/f5e126735f1ac560c1fcc0ac6d40af0a/transformed/core-splashscreen-1.0.0-alpha02/res/values-v27/values-v27.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "209"
+                    }
+                }
+            ]
+        }
+    ]
+}
